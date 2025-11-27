@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Monster Treasury",
+  "description": "A gamified task management and financial literacy app for kids, featuring task tracking, AI-powered English challenges, and a reward system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
